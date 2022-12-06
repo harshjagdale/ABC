@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello</title>
+</head>
+<abbr title="Hyper Text Markup Language">HTML</abbr>
+<body>
+<h2><a href="https://www.google.co.in/">Google</a></h2>
+<h2><a href="https://wallpaperaccess.com/cricket-4k">"Google"</a></h2>
+<hr>
+
+<h2><a href="https://emojipedia.org/smiling-face-with-smiling-eyes">Google</a></h2>
+><img src="C:\Users\harsh\Downloads\Animals and samurai\download (1).jpg">
+<hr>
+<dl>
+<dt>MANGO</dt>
+<dd>its tasty</dd>
+</dl>
+</body>
+</html> 	 		
