@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Audio</title>
+    </head>
+    <body>
+        <audio controls>
+            
+            <source src="C:\Users\harsh\Downloads\New folder\Tare Zameen Par.mp3">
+        </audio>
+        <audio controls>
+        <source src="C:\Users\harsh\Downloads\New folder\emergency-alarm.wav">
+        </audio>
+        <audio controls>
+            <source src="C:\Users\harsh\Downloads\New folder\show-suspense.wav">
+            </audio>
+            <audio controls>
+                <source src="C:\Users\harsh\Downloads\New folder\rain-loop.wav">
+                </audio>
+                <audio controls>
+                    <source src="C:\Users\harsh\Downloads\New folder\bass-pulse.wav">
+                </audio>
+</body>
+</html>
