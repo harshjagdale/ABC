@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hotel menu</title>
+        </head>
+        <body bgcolor="Pink">
+            <hr>
+            <center><table border="2">
+                <tr>
+                <td><h2>MENU CARD</h2></td>
+                </tr>
+            </table></center>
+            <hr>
+        
+            <ol>
+                <li><h3><u>Veg</u></h3></li>
+                <img src="C:\Users\harsh\Downloads\Animals and samurai\paneer tikka.jpg" width="100" height="100">
+             </ol>
+             
+                    <ul>
+                    <li>Paneer tikka</li> 
+                    <li>Paneer bhurji</li>
+                    <li>Chhole bhature</li>
+                    <li>Kaju curry</li>
+                    <li>Misal pav</li>
+                </ul>
+                <hr>
+
+                <ol>
+                    <li><h3><u>Non-veg</u></h3></li>
+                    <img src="C:\Users\harsh\Downloads\Animals and samurai\tandoori chicken.jpg" width="100" height="100">
+                </ol>
+                    
+                <ul>
+                    <li>Handi chicken</li>
+                    <li>Tandoori chicken</li>
+                    <li>Chicken biryani</li>
+                    <li>Handi mutton</li>
+                    <li>Mutton thali</li>
+                    
+                </ul>
+                <hr>
+                <ol>
+                    <li><h3><u>Tea/coffee</u></h3></li>
+                    <img src="C:\Users\harsh\Downloads\Animals and samurai\Tea and coffee.jpg" width="100" height="100">
+                </ol>
+                
+                <ul>
+                    <li>Black tea</li>
+                    <li>Lemon tea</li>
+                    <li>Milk tea</li>
+                    <li>Cold coffee</li>
+                    <li>Strong coffee</li>
+                </ul>
+                <hr>
+                <ol>
+                    <li><h3><u>Ice cream</u></h3></li>
+                    <img src="C:\Users\harsh\Downloads\Animals and samurai\Ice-cream.jpg" width="100" height="100">
+                    </ol>
+                    
+                    <ul>
+                        <li>Chocobar</li>
+                        <li>Mava kulfi</li>
+                        <li>Black current</li>
+                        <li>Mango bite</li>
+                        <li>Butter scotch</li>
+                    </ul>
+
+
+        </body>
+</html>
