@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Audio</title>
+    </head>
+    <body>
+        <video controls>
+            <source src="C:\Users\harsh\Downloads\New folder\video\Happy Independence.mp4">
+            </video>
+            <video controls>
+            <source src="C:\Users\harsh\Downloads\New folder\video\Independence day.mp4">  
+            </video> 
+            <video controls>
+                <source src="C:\Users\harsh\Downloads\New folder\video\new Shivaji Maharaj status.mp4">
+            </video>
+            </body>
+            </html>
